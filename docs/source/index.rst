@@ -1,5 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to keystone-doc-demo documentation!
 ===================================
+
+**It's just a test of the CI provided by readthedocs. Hopefully, we will have an up-to-date documentation of the Keystone TEE soon.**
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
